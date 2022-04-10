@@ -81,7 +81,7 @@ plt.show()
 ![Output1](pic2.png)
 
 ## Linear Regression Graph:
-![Output1](pic3.png)
+![Output1](Pic.3.png)
 
 ## Gradient Descent Graph:
 ![Output1](pic4.png)
