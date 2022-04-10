@@ -74,8 +74,8 @@ plt.show()
 ```
 ## Output:
 ## Contents in the data file (head, tail):
+![Output1](o1.png)![Output1](o2.png)
 
-![Output1](pic1.png)
 ## Checking for null values in the dataset:
 
 ![Output1](pic2.png)
