@@ -75,16 +75,16 @@ plt.show()
 ## Output:
 ## Contents in the data file (head, tail):
 
-![Output1](O2.png)
+![Output1](pic1.png)
 ## Checking for null values in the dataset:
 
-![Output1](O3a.png)
+![Output1](pic2.png)
 
 ## Linear Regression Graph:
-![Output1](O6.png)
+![Output1](pic3.png)
 
 ## Gradient Descent Graph:
-![Output1](o7.png)
+![Output1](pic4.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
